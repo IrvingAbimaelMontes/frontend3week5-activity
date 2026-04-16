@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-16)
+
+
+### Features
+
+* cambios en la pantalla principal ([e2f1428](https://github.com/IrvingAbimaelMontes/frontend3week5-activity/commit/e2f14284e9d5affc0b8ba35f950cb45a74eabf08))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 
