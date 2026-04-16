@@ -4,8 +4,8 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  background-color: #f8fafc; /* Un gris muy claro, estilo e-commerce moderno */
-  color: #1e293b;
+  background-color: #bcbfc2; /* Un gris muy claro, estilo e-commerce moderno */
+  color: #f00cac;
 }
 
 .container {
@@ -43,7 +43,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 15px 40px;
-  background-color: #0f172a; /* Azul muy oscuro, casi negro */
+  background-color: #3f0822; /* Azul muy oscuro, casi negro */
   color: white;
   position: sticky;
   top: 0;
